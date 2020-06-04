@@ -1,0 +1,19 @@
+{
+  "name": "mybuild",
+  "version": "1.0.0",
+  "description": "a piece of... software",
+  "main": "server/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sstehniy/MyBuild.git"
+  },
+  "author": "sstehniy, kotovrdtrlf, v_bukharkin, v_zars",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sstehniy/MyBuild/issues"
+  },
+  "homepage": "https://github.com/sstehniy/MyBuild#readme"
+}
